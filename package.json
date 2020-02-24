@@ -1,0 +1,19 @@
+{
+  "name": "koaa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-body": "^4.1.1",
+    "koa-router": "^8.0.8",
+    "package": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
