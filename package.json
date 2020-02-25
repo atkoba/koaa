@@ -6,8 +6,11 @@
   "dependencies": {
     "koa": "^2.11.0",
     "koa-body": "^4.1.1",
+    "koa-bodyparser": "^4.2.1",
     "koa-router": "^8.0.8",
-    "package": "^1.0.1"
+    "node-json-db": "^1.0.3",
+    "package": "^1.0.1",
+    "simple-json-db": "^1.2.2"
   },
   "devDependencies": {},
   "scripts": {
